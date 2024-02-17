@@ -1,0 +1,16 @@
+.middle{
+    background-color: #FFB30E;
+    height: 400px;
+}
+
+.middle-1>h1{
+    color: white;
+    font-weight: 800;
+    font-size: 50px;
+}
+
+.middle-1>h5{
+    color: black;
+    font-weight: 400;
+    font-size: 15px;
+}
